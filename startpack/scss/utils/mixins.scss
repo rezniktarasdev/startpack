@@ -37,4 +37,17 @@
 //             @content
 //       }
 //    }  
+
+//    @if $size == from_tablet {
+//       @media screen and (min-width: $tablet-min) {
+//             @content
+//       }
+//    }  
+
+//    @if $size == to_desktop {
+//       @media screen and (min-width: $desktop-min) {
+//             @content
+//       }
+
+      
 // }
